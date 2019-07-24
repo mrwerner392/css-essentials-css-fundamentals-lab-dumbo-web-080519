@@ -38,4 +38,6 @@ header a {
 #details div {
   float: left;
   background: #ff0;
+  text-align: center;
+  width: 25%;
 }
