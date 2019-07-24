@@ -30,3 +30,7 @@ header a {
   padding-right: 10px;
   background: #00ff00;
 }
+
+#details {
+  display: block;
+}
