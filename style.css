@@ -13,6 +13,11 @@ section#featured-property img {
   margin: auto;
 }
 
+section#featured-property figcaption {
+  text-align: center;
+  font-size: 12px;
+}
+
 header a {
   padding-left: 10px;
   padding-right: 10px;
