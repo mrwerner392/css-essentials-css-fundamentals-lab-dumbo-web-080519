@@ -20,6 +20,7 @@ section#featured-property figcaption {
 
 section#featured-property p {
   width: 800px;
+  margin: auto;
   text-align: center;
 }
 
