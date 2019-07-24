@@ -13,7 +13,7 @@ img {
   margin: auto;
 }
 
-header ~ a {
-  /*padding-left: 10px;
-  padding-right: 10px;*/
+header a {
+  padding-left: 10px;
+  padding-right: 10px;
 }
